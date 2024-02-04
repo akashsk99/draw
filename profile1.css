@@ -1,0 +1,108 @@
+.left-container {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    float: left;
+    margin-top: 10px;
+}
+.right-container {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    float: right;
+    margin-top: 10px;
+}
+.Hobbies{
+    padding: 10px;
+    width: 100%;
+    height: max-content;
+    margin-top: 10px;
+    border-radius: 15px;
+    border: 2px solid black;
+}
+
+.pdeatils{
+    border: 2px solid black;
+    padding: 10px; 
+    width: 100%;
+    height: max-content; 
+    border-radius: 15px;
+    margin-top: 10px;
+}
+.nddiv{
+    width: 100%;
+    height: max-content;
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+.Hobbies:hover{
+    padding: 10px;
+    width: 100%;
+    height: max-content;
+    margin-top: 10px;
+    border-radius: 15px;
+    border: 2px solid black;
+    background-color: rgb(103, 28, 138);
+    border: 6px solid rgb(251, 255, 0);
+    color: aliceblue;
+    .h22{
+        border: 2px solid rgb(171, 192, 12);
+        border-radius: 15px;
+        padding: 10px;
+        color: aliceblue;
+    }
+}
+
+.pdeatils:hover{
+    border: 2px solid black;
+    background-color: rgb(103, 28, 138);
+    border: 6px solid rgb(251, 255, 0);
+    color: aliceblue;
+    padding: 10px; 
+    width: 100%;
+    height: max-content; 
+    border-radius: 15px;
+    margin-top: 10px;
+    .h22{
+        border: 2px solid rgb(171, 192, 12);
+        border-radius: 15px;
+        padding: 10px;
+        color: aliceblue;
+    }
+}
+.nddiv:hover{
+    width: 100%;
+    background-color: rgb(103, 28, 138);
+    border: 6px solid rgb(251, 255, 0);
+    color: aliceblue;
+    height: max-content;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 15px;
+    .h22{
+        border: 2px solid rgb(171, 192, 12);
+        border-radius: 15px;
+        padding: 10px;
+        color: aliceblue;
+    }
+}
+.img12{
+    border: 5px solid rgb(108, 12, 192);
+    border-radius: 100%;
+}
+.img12:hover{
+    border: 5px solid rgb(170, 217, 15);
+    border-radius: 100%;
+}
+.h22{
+    border: 2px solid rgb(108, 12, 192);
+    border-radius: 15px;
+    padding: 10px;
+    color:  rgb(108, 12, 192);
+}
